@@ -1,0 +1,7 @@
+﻿  commDLL.cpp
+c:\users\vidig\onedrive - isec\school\18-19\so ii\trabalhopratico\trabalhopratico\commdll\commdll.cpp(13): warning C4273: 'nDLL': inconsistent dll linkage
+  c:\users\vidig\onedrive - isec\school\18-19\so ii\trabalhopratico\trabalhopratico\commdll\commdll.h(32): note: see previous definition of 'nDLL'
+c:\users\vidig\onedrive - isec\school\18-19\so ii\trabalhopratico\trabalhopratico\commdll\commdll.cpp(25): warning C4273: 'Load': inconsistent dll linkage
+  c:\users\vidig\onedrive - isec\school\18-19\so ii\trabalhopratico\trabalhopratico\commdll\commdll.h(36): note: see previous definition of 'Load'
+     Creating library C:\Users\vidig\OneDrive - ISEC\school\18-19\SO II\TrabalhoPratico\TrabalhoPratico\x64\Debug\commDLL.lib and object C:\Users\vidig\OneDrive - ISEC\school\18-19\SO II\TrabalhoPratico\TrabalhoPratico\x64\Debug\commDLL.exp
+  commDLL.vcxproj -> C:\Users\vidig\OneDrive - ISEC\school\18-19\SO II\TrabalhoPratico\TrabalhoPratico\x64\Debug\commDLL.dll

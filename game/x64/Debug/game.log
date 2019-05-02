@@ -1,0 +1,4 @@
+﻿  game.cpp
+game.obj : error LNK2019: unresolved external symbol __imp_Load referenced in function wmain
+C:\Users\vidig\OneDrive - ISEC\school\18-19\SO II\TrabalhoPratico\TrabalhoPratico\Debug\commDLL.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\vidig\OneDrive - ISEC\school\18-19\SO II\TrabalhoPratico\TrabalhoPratico\x64\Debug\game.exe : fatal error LNK1120: 1 unresolved externals

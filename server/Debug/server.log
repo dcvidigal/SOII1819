@@ -1,0 +1,4 @@
+﻿  server.cpp
+c:\users\vidig\onedrive - isec\school\18-19\so ii\trabalhopratico\soii1819\server\server.cpp(126): warning C4474: 'wprintf' : too many arguments passed for format string
+  c:\users\vidig\onedrive - isec\school\18-19\so ii\trabalhopratico\soii1819\server\server.cpp(126): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  server.vcxproj -> C:\Users\vidig\OneDrive - ISEC\school\18-19\SO II\TrabalhoPratico\SOII1819\Debug\server.exe
